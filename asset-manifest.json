@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/resume-veva/static/css/main.b46cbbde.css",
-    "main.js": "/resume-veva/static/js/main.d386a378.js",
+    "main.css": "/resume-veva/static/css/main.d7fc316b.css",
+    "main.js": "/resume-veva/static/js/main.791c214a.js",
     "static/js/453.bd3d193b.chunk.js": "/resume-veva/static/js/453.bd3d193b.chunk.js",
     "static/media/profile.jpg": "/resume-veva/static/media/profile.f5462dd491727b24690d.jpg",
     "index.html": "/resume-veva/index.html",
-    "main.b46cbbde.css.map": "/resume-veva/static/css/main.b46cbbde.css.map",
-    "main.d386a378.js.map": "/resume-veva/static/js/main.d386a378.js.map",
+    "main.d7fc316b.css.map": "/resume-veva/static/css/main.d7fc316b.css.map",
+    "main.791c214a.js.map": "/resume-veva/static/js/main.791c214a.js.map",
     "453.bd3d193b.chunk.js.map": "/resume-veva/static/js/453.bd3d193b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b46cbbde.css",
-    "static/js/main.d386a378.js"
+    "static/css/main.d7fc316b.css",
+    "static/js/main.791c214a.js"
   ]
 }
